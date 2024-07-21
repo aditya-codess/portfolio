@@ -1,24 +1,24 @@
 const allSkills = 
 {
     'Frontend Development':{
-        "REACT":30,
-        "CSS":55,
-        "TAILWIND CSS":80,
+        "CSS":70,
+        "REACT":45,
+        "TAILWIND CSS":55,
     },
     'Backend Development':{
         "NODEJS":70,
-        "EXPRESSJS":60,
-        "POSTGRESQL":80
+        "EXPRESSJS":50,
+        "POSTGRESQL":50,
     },
     "Languages":{
-        "C/C++":50,
+        "C/C++":80,
         "JAVASCRIPT":70,
-        "TYPESCRIPT":85
+        "TYPESCRIPT":55
     },
     'Other Skills':{
-        "PHOTOSHOP":50,
-        "ADOBE LIGHTROOM":75,
-        "CANVA":90
+        "PHOTOSHOP":70,
+        "ADOBE LIGHTROOM":80,
+        "CANVA":90,
     },
 }
 let skillCount = 1;
